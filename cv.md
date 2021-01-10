@@ -9,7 +9,7 @@
 
 ### Contact Information
 **Phone:** +375(25) 926 24 79\
-**E-mail:** [mail]
+**E-mail:** karina_cheshko@mail.ru
 
 ### Languages
 -	English(Intermediate)\
@@ -42,5 +42,3 @@
 ### Work experience
 1. Netcracker Company\
   Since 07.2019 - present - Junior Frontend Developer 
-
-[mail]:karina_cheshko@mail.ru "karina_cheshko@mail.ru"
