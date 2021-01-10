@@ -22,7 +22,7 @@
 -	Mathematical background
 -	Knowledge in algorithms and data structures
 - Git, SVN
-- HTML5, CSS3, BEM(little), JavaScript
+- HTML5, CSS3(Less), BEM(little), JavaScript
 
 ```
   function solution(str){
