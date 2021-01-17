@@ -1,7 +1,16 @@
+body {
+  font-family: Arial;
+  font-size: 14px;
+  line-height: 1.5;
+  background-color: #fff;
+  font-weight: 400;
+}
+
 main {
   margin: auto;
   display: block;
   padding: 20px;
+  max-width: 1012px;
 }
 
 figure {
