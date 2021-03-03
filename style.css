@@ -1,28 +1,39 @@
 body {
-  font-family: Arial;
-  font-size: 14px;
-  line-height: 1.5;
-  background-color: #fff;
-  font-weight: 400;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 1.5;
+    background-color: #fff;
+    font-weight: 400;
+    margin: auto;
 }
 
-main {
-  margin: auto;
-  display: block;
-  padding: 20px;
-  max-width: 1012px;
+main,
+footer {
+    margin: auto;
+    display: block;
+    padding: 20px;
+    max-width: 1012px;
 }
 
 figure {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .list {
-  list-style: none;
+    list-style: none;
 }
 
 .example-code {
-  background: #f6f8fa;
+    background: #f6f8fa;
+}
+
+.wrapper-links {
+    display: flex;
+    justify-content: space-around;
+}
+
+.wrapper-links>a {
+    margin: 10px;
 }
